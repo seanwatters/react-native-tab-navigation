@@ -3,8 +3,6 @@
 ![header](https://miro.medium.com/max/4120/1*NCIBKmNxfEltO-2Ti5jYuA.png)
 
 <p align=center>Photo by Annie Theby on Unsplash</p>
-
-<br>
 <br> 
 
 **The full repository for the [React Native - Tab Navigation](https://medium.com/swlh/react-native-tab-navigation-a373463aa60) blog post.**
