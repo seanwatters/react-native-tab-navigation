@@ -1,6 +1,6 @@
 # React Native - Tab Navigation
 
-<b style="margin-left: 20px">Published in <a href="https://medium.com/swlh">The Startup</a></b>
+<b>Published in <a href="https://medium.com/swlh">The Startup</a></b>
 
 ![header](https://miro.medium.com/max/4120/1*NCIBKmNxfEltO-2Ti5jYuA.png)
 
